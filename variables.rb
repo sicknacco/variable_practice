@@ -14,9 +14,9 @@
 - weight = 140.2
 
 # Variables assigned to Booleans
-- bill_paid = true
-- is_signed_in = true
-- is_it_hot = true
+bill_paid = true
+is_signed_in = true
+is_it_hot = true
 
 # Step 15 - Reassign string values
 email = "nicksacco10@gmail.com"
