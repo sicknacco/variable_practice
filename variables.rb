@@ -12,3 +12,8 @@
 - distance_traveled = 12.5
 - height = 5.9
 - weight = 140.2
+
+# Variables assigned to Booleans
+- bill_paid = true
+- is_signed_in = true
+- is_it_hot = true
