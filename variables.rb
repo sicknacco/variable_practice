@@ -1,7 +1,7 @@
 # Variables assigned to Strings
 - email = "nicksacco10@gmail.com"
 - name = "Nick"
-- address = 4530 1/2 32nd Street
+- address = "4530_1/2 32nd Street"
 
 # Variables assigned to Integers
 - age = 32
@@ -17,3 +17,19 @@
 - bill_paid = true
 - is_signed_in = true
 - is_it_hot = true
+
+# Step 15 - Reassign string values
+email = "nicksacco10@gmail.com"
+my_email = email
+
+name = "Nick"
+first_name = name
+
+address = "4530 1/2 32nd Street"
+new_address = address
+
+# Puts Statements
+puts "I wonder if I did the last step correctly?"
+puts "For step 15, is anything entered irb?"
+puts "Does all of this need to be entered into the same irb session?"
+puts "I will gladly come back to this project to update/edit"
