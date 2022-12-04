@@ -8,3 +8,7 @@
 - number_of_dogs = 1
 - assignments_completed = 5
 
+# Variables assigned to Floats
+- distance_traveled = 12.5
+- height = 5.9
+- weight = 140.2
